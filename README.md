@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey folks! ... :)
+
+
+
+### My name is <a href="https://imamtagupta.github.io/v1/" style="text-decoration: none; color:#B24BF3"> Mamta Gupta </a> 😎
 
 <!--
-**imamtagupta/imamtagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=mgupta96)
 -->
+
+
+- Software Engineer @ <a href="https://hexafoldtech.com/">HexafoldTech</a>
+- If you like web development and also amazed with the power of data at the same time you land on right Github Profile.😉
+- I love building Django+React/Angular application, deep dive into data insights 💙.
+- Reach out at <a href="https://www.linkedin.com/in/mamtaguptasde/">Linkedin</a> or Email me at mamtag962000@gmail.com 🙌
+- This is my <a href="https://drive.google.com/file/d/1N6TKpXP5rYxwRaCSnWkmpOW1MyfcTLW5/view?usp=share_link">Resume</a> 😊
+
+<!-- - I am also trying my hands on AWS console and terraform.💚 -->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mgupta96&theme=radical&show_icons=true)          
