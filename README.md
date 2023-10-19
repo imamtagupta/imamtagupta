@@ -17,4 +17,4 @@
 
 <!-- - I am also trying my hands on AWS console and terraform.💚 -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imamtagupta&theme=radical&show_icons=true)          
+![My github stats](https://github-readme-stats.vercel.app/api?username=imamtagupta&show=reviews,prs_merged,prs_merged_percentage&theme=radical&show_icons=true)          
