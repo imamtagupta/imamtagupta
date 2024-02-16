@@ -4,9 +4,6 @@
 
 ### This is <a href="https://imamtagupta.github.io/v1/" style="text-decoration: none; color:#B24BF3"> Mamta Gupta </a> 😎
 
-<!--
-![](https://komarev.com/ghpvc/?username=mgupta96)
--->
 
 
 - Software Engineer @[JPMC](https://www.jpmorganchase.com/)</a>
