@@ -13,5 +13,4 @@
 - This is my <a href="https://drive.google.com/file/d/1N6TKpXP5rYxwRaCSnWkmpOW1MyfcTLW5/view?usp=share_link">Resume</a> 😊
 
 
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=imamtagupta&show=reviews,prs_merged,prs_merged_percentage&theme=radical&show_icons=true)          
