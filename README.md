@@ -10,7 +10,8 @@
 - If you like web development and also amazed with the power of data at the same time you land on right Github Profile.😉
 - I love building Django+React/Angular application, deep dive into data insights 💙.
 - Reach out at <a href="https://www.linkedin.com/in/mamtaguptasde/">Linkedin</a> or Email me at mamtaguptasde@gmail.com 🙌
-  <!--
+  
+<!--
   TODO: BELOW RESUME IS DEPRECATED, NEED TO UPDATE/ REVISIT NEW IDEA TO SHOWCASE THE EXPERIENCE
   - This is my <a href="https://drive.google.com/file/d/1N6TKpXP5rYxwRaCSnWkmpOW1MyfcTLW5/view?usp=share_link">Resume</a> 😊
   -->
