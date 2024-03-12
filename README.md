@@ -1,7 +1,5 @@
 ### Hey folks! ... :)
 
-
-
 ### This is <a href="https://imamtagupta.github.io/v1/" style="text-decoration: none; color:#B24BF3"> Mamta Gupta </a> 😎
 
 
